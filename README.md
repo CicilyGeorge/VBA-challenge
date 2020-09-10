@@ -1,6 +1,7 @@
 ## The VBA of Wall Street
 
 **Background**
+
 Use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
 
 **Before You Begin**
