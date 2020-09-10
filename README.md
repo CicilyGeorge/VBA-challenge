@@ -1,9 +1,9 @@
-##The VBA of Wall Street
+## The VBA of Wall Street
 
-Background
+**Background**
 Use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
 
-Before You Begin
+**Before You Begin**
 
 
 Create a new repository for this project called VBA-challenge.
@@ -13,7 +13,7 @@ Inside the new repository that you just created, add any VBA files you use for t
 
 
 
-Files
+**Files**
 
 
 Test Data - Use this while developing your scripts.
@@ -26,27 +26,27 @@ Stock Data - Run your scripts on this data to generate the final homework report
 ![Stock market analyst](/Images/stockmarket.jpg)
 
 
-Instructions
+**Instructions**
 
 
 Create a script that will loop through all the stocks for one year and output the following information.
 
 
-The ticker symbol.
+* The ticker symbol.
 
 
-Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+* Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 
 
-The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+* The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 
 
-The total stock volume of the stock.
+* The total stock volume of the stock.
 
 
 
 
-You should also have conditional formatting that will highlight positive change in green and negative change in red.
+* You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
 
 The result should look as follows.
@@ -55,16 +55,16 @@ The result should look as follows.
 ![](/Images/moderate_solution.png)
 
 
-CHALLENGES
+**CHALLENGES**
 
-Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
+1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
 ![](/Images/hard_solution.png)
 
-Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
 
-Other Considerations
+**Other Considerations**
 
 
 Use the sheet alphabetical_testing.xlsx while developing your code. This data set is smaller and will allow you to test faster. Your code should run on this file in less than 3-5 minutes.
