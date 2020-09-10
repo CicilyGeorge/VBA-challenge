@@ -1,5 +1,3 @@
-# VBA-challenge
-
 The VBA of Wall Street
 
 Background
@@ -8,7 +6,7 @@ Use VBA scripting to analyze real stock market data. Depending on your comfort l
 Before You Begin
 
 
-Create a new repository for this project called VBA-challenge. 
+Create a new repository for this project called VBA-challenge.
 
 
 Inside the new repository that you just created, add any VBA files you use for this assignment. These will be the main scripts to run for each analysis.
@@ -25,7 +23,7 @@ Stock Data - Run your scripts on this data to generate the final homework report
 
 
 
-Stock market analyst
+![Stock market analyst](/Images/stockmarket.jpg)
 
 
 Instructions
@@ -72,3 +70,6 @@ Use the sheet alphabetical_testing.xlsx while developing your code. This data se
 
 
 Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
+
+
+
