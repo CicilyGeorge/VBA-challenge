@@ -20,7 +20,7 @@ Inside the new repository that you just created, add any VBA files you use for t
 Test Data - Use this while developing your scripts.
 
 
-Stock Data - Run your scripts on this data to generate the final homework report.
+Stock Data - Run your scripts on this data to generate the final report.
 
 
 
