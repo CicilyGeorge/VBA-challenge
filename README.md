@@ -4,15 +4,6 @@
 
 Use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
 
-**Before You Begin**
-
-
-Create a new repository for this project called VBA-challenge.
-
-
-Inside the new repository that you just created, add any VBA files you use for this assignment. These will be the main scripts to run for each analysis.
-
-
 
 **Files**
 
