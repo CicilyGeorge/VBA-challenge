@@ -61,9 +61,9 @@ Sub stockAnalysis()
     
     'Insert Ticker and Values
     ws.Range("P2").Value = ws.Cells(row_max, 9).Value
-    ws.Range("Q2").Value = Format(max_percent, "Percent")
+    ws.Range("Q2").Value = Format((max_percent * 100), "0.00\%")
     ws.Range("P3").Value = ws.Cells(row_min, 9).Value
-    ws.Range("Q3").Value = Format(min_percent, "Percent")
+    ws.Range("Q3").Value = Format((min_percent * 100), "0.00\%")
     ws.Range("P4").Value = ws.Cells(row_max_vol, 9).Value
     ws.Range("Q4").Value = max_volume
 
